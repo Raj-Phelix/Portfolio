@@ -2,6 +2,7 @@
     margin:0 ;
     scroll-behavior: smooth;
 }
+/*nav-bar styling*/
 .nav-bar{
     display: flex;
     align-items: center;
@@ -13,13 +14,11 @@
     border-radius: 20px;
     margin: 10px 10px 0px 10px;
     top: 0;
-    position: fixed;
-    
+    position: fixed;    
 }
 .nav-bar h1{
     font-size: 30px;
     font-weight: bold;
-    
 }
 .nav-bar h1 span{
     color:rgb(110, 110, 250);  
